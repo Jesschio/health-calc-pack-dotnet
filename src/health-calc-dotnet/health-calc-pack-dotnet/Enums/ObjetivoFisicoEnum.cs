@@ -4,7 +4,7 @@
     {
         Bulking = 0,
         Cutting = 1,
-        Maintenence = 2
+        Maintenance = 2
     }
 
 }
