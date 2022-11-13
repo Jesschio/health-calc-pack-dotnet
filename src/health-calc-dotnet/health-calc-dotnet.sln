@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "health-calc-pack-dotnet-jesschio", "health-calc-pack-dotnet\health-calc-pack-dotnet-jesschio.csproj", "{65E5961C-74E4-40B4-9D6D-45F76E8B7D0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health-calc-test-xunit", "Health-calc-test-xunit\Health-calc-test-xunit.csproj", "{2B04A990-4F5B-4658-B576-C823CE412153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health-calc-test-xunit", "Health-calc-test-xunit\Health-calc-test-xunit.csproj", "{2B04A990-4F5B-4658-B576-C823CE412153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-console-dotnet", "health-calc-console-dotnet\health-calc-console-dotnet.csproj", "{AE7E0A3C-46D8-4C75-ADD8-1EB4789DDEB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "health-calc-console-dotnet", "health-calc-console-dotnet\health-calc-console-dotnet.csproj", "{AE7E0A3C-46D8-4C75-ADD8-1EB4789DDEB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
