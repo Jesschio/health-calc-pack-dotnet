@@ -26,9 +26,32 @@ Exemplo da estrutura do Strategy Pattern:
 
 <img src = "src\docshealthcalc\estrutura.png" alt = "strategy">
 
-## Pré-Requisitos
+## 💻 Pré-Requisitos
 
 Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos:
 - Versão mais recente do Visual Studio, a qual pode ser conseguida através do link "https://visualstudio.microsoft.com/pt-br/downloads/"
 - .NET Core SDK 6.0, o qual pode ser obtido através do link "https://dotnet.microsoft.com/en-us/download"
 - Última versão do Git, a qual pode ser adquirida por meio do link "https://git-scm.com/downloads"
+
+## Get Start
+
+- Crie uma pasta para armazenar seus repositórios. Por exemplo: “C:\Desenvolvimento\PUC”
+- Acesse o link "https://github.com/Jesschio/health-calc-pack-dotnet" e copie o link do repositório:
+	<img src = "src\docshealthcalc\Copiarlink.png" alt = "linkgit">
+- Clique com o botão direito dentro da pasta onde ficará armazenado seu projeto e clone o repositório:
+	<img src = "docs\ArmazenamentoProjeto.png" alt = "armazenamento">
+	<img src = "docs\GitClone.png" alt = "clonar">
+- Abra o repositório "myfinance-web-netcore" no VSCode:
+        <img src = "docs\AbrirPasta.png" alt = "abrir">
+- Restaure a extensão C#:
+        <img src = "docs\Restaurarextensao.png" alt = "restaurar">
+- Realize o link entre o projeto e o banco de dados
+- Abra um novo terminal e execute o comando "cd .\myfinance-web-netcore\"
+	<img src = "docs\Novoterminal.png" alt = "terminal">
+- Execute o comando "dotnet build" para compilar
+	<img src = "docs\compilacao.png" alt = "compilar">
+- Execute o comando "dotnet run" para executar a aplicação. Dessa forma, o console do terminal irá informar o endereço onde a aplicação está sendo executada.
+	
+	<img src = "docs\dotnetrun.png" alt = "executar">
+- Copie e cole em seu navegador para acessar
+	<img src = "docs\navegador.png" alt = "navegador">
