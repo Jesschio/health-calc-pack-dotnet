@@ -51,8 +51,6 @@ Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos
 	<img src = "src\docshealthcalc\arquivo.png" alt = "projeto">
 	
 - Pressione as teclas "Ctrl" + "B" para compilar o projeto
-
-        <img src = "src\docshealthcalc\compilar.png" alt = "compilar">
 	
 - Altere para "health-calc-console-dotnet"
 
