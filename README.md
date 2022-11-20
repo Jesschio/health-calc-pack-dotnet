@@ -30,5 +30,5 @@ Exemplo da estrutura do Strategy Pattern:
 
 Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos:
 - Versão mais recente do Visual Studio, a qual pode ser conseguida através do link "https://visualstudio.microsoft.com/pt-br/downloads/"
--.NET Core SDK 6.0, o qual pode ser obtido através do link "https://dotnet.microsoft.com/en-us/download"
+- .NET Core SDK 6.0, o qual pode ser obtido através do link "https://dotnet.microsoft.com/en-us/download"
 - Última versão do Git, a qual pode ser adquirida por meio do link "https://git-scm.com/downloads"
