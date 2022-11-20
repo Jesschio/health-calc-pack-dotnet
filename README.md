@@ -63,7 +63,5 @@ Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos
 	<img src = "src\docshealthcalc\executar.png" alt = "executar">
 	
 - Clique na opção "Continuar a Depuração"
-
-
         <img src = "src\docshealthcalc\continuardepuracao.png" alt = "continuar">
 	<img src = "src\docshealthcalc\IMCeMacronutrientes.png" alt = "rodando">
