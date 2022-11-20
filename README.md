@@ -21,6 +21,7 @@ Empregamos o padrão de projeto comportamental Strategy Pattern, o qual permite 
 Sendo assim, o padrão sugere que seja dividido o algoritmo de uma classe principal em classes separadas (chamadas estratégias). 
 A classe original, chamada contexto, deve conter um campo para armazenar uma referência para uma dessas estratégias. Então, quando o cliente passa a estratégia desejada para o contexto, este chama o método que irá acionar o algoritmo encapsulado dentro dela.
 Dessa maneira, o contexto se torna independente das estratégias concretas, então torna-se possível adicionar novos algoritmos ou modificar os existentes sem modificar o código do contexto ou outras estratégias.
+
 Exemplo da estrutura do Strategy Pattern:
 
 <img src = "src\docshealthcalc\estrutura.png" alt = "strategy">
