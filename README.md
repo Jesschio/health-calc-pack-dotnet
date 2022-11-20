@@ -37,19 +37,32 @@ Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos
 
 - Crie uma pasta para armazenar seus repositórios. Por exemplo: “C:\Desenvolvimento\PUC”
 - Acesse o link "https://github.com/Jesschio/health-calc-pack-dotnet" e copie o link do repositório:
+
 	<img src = "src\docshealthcalc\Copiarlink.png" alt = "linkgit">
+	
 - Clique com o botão direito dentro da pasta onde ficará armazenado seu projeto e clone o repositório:
+
 	<img src = "src\docshealthcalc\gitbash.png" alt = "armazenamento">
 	<img src = "src\docshealthcalc\clone.png" alt = "clonar">
+	
 - Abra o repositório "health-calc-pack-dotnet" no Visual Studio:
+ 
 	<img src = "src\docshealthcalc\abrirprojeto.png" alt = "abrir">
 	<img src = "src\docshealthcalc\arquivo.png" alt = "projeto">
+	
 - Pressione as teclas "Ctrl" + "B" para compilar o projeto
+
         <img src = "src\docshealthcalc\compilar.png" alt = "compilar">
+	
 - Altere para "health-calc-console-dotnet"
+
 	<img src = "src\docshealthcalc\console.png" alt = "console">
+	
 - Execute o "health-calc-console-dotnet"
+
 	<img src = "src\docshealthcalc\executar.png" alt = "executar">
+	
 - Clique na opção "Continuar a Depuração"
+- 
         <img src = "src\docshealthcalc\continuardepuracao.png" alt = "continuar">
 	<img src = "src\docshealthcalc\IMCeMacronutrientes.png" alt = "rodando">
