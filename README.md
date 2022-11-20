@@ -13,4 +13,4 @@ A camada de domínio contêm todas as regras de negócio do software que devem s
 Já a camada de aplicação é responsável por preparar o ambiente para seus modelos, a fim de que possam executar suas regras de negócio, ou seja, ela apenas chama métodos de objetos que implementam as interfaces que ela espera e esses objetos (da camada de infraestrutura) efetuam alguma operação de IO.
 Por fim, a camada de infraestrutura é encarregada da implementação de todas as operações de entrada e saída necessárias para o software.
 
-<img src = "src\docshealthcalc\calc.png" alt = "healthcalcpack">
+<img src = "src\docshealthcalc\onion.jpg" alt = "healthcalcpack">
