@@ -67,7 +67,6 @@ Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos
 ## Execute Testes
 
 Acesse o menu Teste -> Executar Todos os Testes:
-
 	<img src = "src\docshealthcalc\testes.png" alt = "testes">
 
 ## 📫 Contribuia
