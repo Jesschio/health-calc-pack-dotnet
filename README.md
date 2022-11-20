@@ -42,12 +42,13 @@ Antes de iniciar, por favor verificar se possui/instalou os seguintes requisitos
 	<img src = "src\docshealthcalc\gitbash.png" alt = "armazenamento">
 	<img src = "src\docshealthcalc\clone.png" alt = "clonar">
 - Abra o repositório "health-calc-pack-dotnet" no Visual Studio:
-- 	<img src = "src\docshealthcalc\abrirprojeto.png" alt = "abrir">
-- 	<img src = "src\docshealthcalc\arquivo.png" alt = "projeto">
-
-- Execute o comando "dotnet build" para compilar
-	<img src = "docs\compilacao.png" alt = "compilar">
-- Execute o comando "dotnet run" para executar a aplicação. Dessa forma, o console do terminal irá informar o endereço onde a aplicação está sendo executada.
-	<img src = "docs\dotnetrun.png" alt = "executar">
-- Copie e cole em seu navegador para acessar
-	<img src = "docs\navegador.png" alt = "navegador">
+	<img src = "src\docshealthcalc\abrirprojeto.png" alt = "abrir">
+	<img src = "src\docshealthcalc\arquivo.png" alt = "projeto">
+- Pressione as teclas "Ctrl" + "B" para compilar o projeto
+        <img src = "src\docshealthcalc\compilar.png" alt = "compilar">
+- Altere para "health-calc-console-dotnet"
+	<img src = "src\docshealthcalc\console.png" alt = "console">
+- Execute o "health-calc-console-dotnet"
+	<img src = "src\docshealthcalc\executar.png" alt = "executar">
+- Clique na opção "Continuar a Depuração"
+        <img src = "src\docshealthcalc\continuardepuracao.png" alt = "continuar">
