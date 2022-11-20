@@ -17,7 +17,7 @@ Por fim, a camada de infraestrutura é encarregada da implementação de todas a
 
 ## Strategy Pattern
 
-Strategy Pattern é um padrão de projeto comportamental, o qual permite que seja definida uma família de algoritmos, coloque-os em classes separadas e faça seus objetos intercambiáveis.
+Empregamos o padrão de projeto comportamental Strategy Pattern, o qual permite que seja definida uma família de algoritmos, coloque-os em classes separadas e faça seus objetos intercambiáveis.
 Sendo assim, o padrão sugere que seja dividido o algoritmo de uma classe principal em classes separadas (chamadas estratégias). 
 A classe original, chamada contexto, deve conter um campo para armazenar uma referência para uma dessas estratégias. Então, quando o cliente passa a estratégia desejada para o contexto, este chama o método que irá acionar o algoritmo encapsulado dentro dela.
 Dessa maneira, o contexto se torna independente das estratégias concretas, então torna-se possível adicionar novos algoritmos ou modificar os existentes sem modificar o código do contexto ou outras estratégias.
